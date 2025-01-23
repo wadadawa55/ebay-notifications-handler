@@ -1,0 +1,11 @@
+{
+  "name": "ebay-notifications-handler",
+  "version": "1.0.0",
+  "description": "A simple server for handling eBay notifications",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
